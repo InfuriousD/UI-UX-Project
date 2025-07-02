@@ -39,25 +39,6 @@ A full-flow, high-fidelity prototype designed in Figma, showcasing a multi-step 
 
 ---
 
-## 📁 Folder Structure
-
-```
-figma-login-ui/
-├── screenshots/
-│   ├── Login -email.png
-│   ├── Login -OTP.png
-│   ├── Login -Basic info.png
-│   ├── Login - basic info - choose avatar - male.png
-│   ├── Profile Set Up.png
-│   ├── Home Page - ongoing modules.png
-│   ├── Final Page - Entered VR World.png
-│   ├── Provide Feedback.png
-│   └── ...and more
-└── README.md
-```
-
----
-
 ## 🧰 Tools & Tech
 
 - **Figma** – for UI/UX design and prototyping  
@@ -69,9 +50,9 @@ figma-login-ui/
 
 ## ✍️ Author
 
-**Yash Kishore**  
+**Mayank Garg, Yash Kishore, Naman Tomar, Kriti Behl**  
 University of Florida  
-📧 yashkishore@ufl.edu
+📧 mayankgarg@ufl.edu
 
 ---
 
