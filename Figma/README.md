@@ -52,7 +52,6 @@ A full-flow, high-fidelity prototype designed in Figma, showcasing a multi-step 
 
 **Mayank Garg, Yash Kishore, Naman Tomar, Kriti Behl**  
 University of Florida  
-📧 mayankgarg@ufl.edu
 
 ---
 
